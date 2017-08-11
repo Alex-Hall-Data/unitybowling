@@ -1,0 +1,19 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreMaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Pin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\pinCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ActionMaster.cs" Line="9" Column="21" />
+      <File FileName="Assets\Scripts\ScoreMaster.cs" Line="43" Column="22" />
+      <File FileName="Assets\START Pack\Scripts\Editor\ScoreMasterTest.cs" Line="245" Column="2" />
+      <File FileName="Assets\Editor\ActionMasterTest.cs" Line="13" Column="10" />
+      <File FileName="Assets\Scripts\PinSetter.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
